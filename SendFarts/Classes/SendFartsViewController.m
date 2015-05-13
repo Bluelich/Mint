@@ -90,6 +90,8 @@
 	[alert show];
 	[alert release];
 	[whatDidIget release];
+    
+    NSLog(@"testDev");
 }
 
 #pragma mark -
